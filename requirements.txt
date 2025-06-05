@@ -1,0 +1,7 @@
+opencv-python
+openai
+pyttsx3
+python-dotenv
+fastapi
+uvicorn
+requests
